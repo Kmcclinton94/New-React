@@ -1,8 +1,8 @@
 import React from 'react';
 
-function App() {
+function Cummins() {
   const value = 'World';
   return <div>Hello {value}</div>;
 }
 
-export default App;
+export default Cummins;

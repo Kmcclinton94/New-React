@@ -1,0 +1,155 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: https://3000-gitpodsampl-templatetyp-gz1b8frbvdu.ws-us97.gitpod.io/
+Subject: 
+Date: Fri, 12 May 2023 20:34:08 -0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--EuG4C5GQYK5MdfeVrn3q0XW2xQOOBT4f0EV0pOwDCY----"
+
+
+------MultipartBoundary--EuG4C5GQYK5MdfeVrn3q0XW2xQOOBT4f0EV0pOwDCY----
+Content-Type: text/html
+Content-ID: <frame-8B8CFE01D7FE74A11408B48D9ADDCBE0@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://3000-gitpodsampl-templatetyp-gz1b8frbvdu.ws-us97.gitpod.io/
+
+<html><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3DUTF-8"><meta name=3D"color-scheme" content=3D"light dark"></head><body><=
+div class=3D"line-gutter-backdrop"></div><form autocomplete=3D"off"><label =
+class=3D"line-wrap-control">Line wrap<input type=3D"checkbox" aria-label=3D=
+"Line wrap"></label></form><table><tbody><tr><td class=3D"line-number" valu=
+e=3D"1"></td><td class=3D"line-content"><span class=3D"html-doctype">&lt;!D=
+OCTYPE html&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"2"><=
+/td><td class=3D"line-content"><span class=3D"html-tag">&lt;html <span clas=
+s=3D"html-attribute-name">lang</span>=3D"<span class=3D"html-attribute-valu=
+e">en</span>"&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"3"=
+></td><td class=3D"line-content">  <span class=3D"html-tag">&lt;head&gt;</s=
+pan></td></tr><tr><td class=3D"line-number" value=3D"4"></td><td class=3D"l=
+ine-content">    <span class=3D"html-tag">&lt;meta <span class=3D"html-attr=
+ibute-name">charset</span>=3D"<span class=3D"html-attribute-value">utf-8</s=
+pan>" /&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"5"></td>=
+<td class=3D"line-content">    <span class=3D"html-tag">&lt;link <span clas=
+s=3D"html-attribute-name">rel</span>=3D"<span class=3D"html-attribute-value=
+">icon</span>" <span class=3D"html-attribute-name">href</span>=3D"<a class=
+=3D"html-attribute-value html-resource-link" target=3D"_blank" href=3D"http=
+s://3000-gitpodsampl-templatetyp-gz1b8frbvdu.ws-us97.gitpod.io/favicon.ico"=
+ rel=3D"noreferrer noopener">/favicon.ico</a>" /&gt;</span></td></tr><tr><t=
+d class=3D"line-number" value=3D"6"></td><td class=3D"line-content">    <sp=
+an class=3D"html-tag">&lt;meta <span class=3D"html-attribute-name">name</sp=
+an>=3D"<span class=3D"html-attribute-value">viewport</span>" <span class=3D=
+"html-attribute-name">content</span>=3D"<span class=3D"html-attribute-value=
+">width=3Ddevice-width, initial-scale=3D1</span>" /&gt;</span></td></tr><tr=
+><td class=3D"line-number" value=3D"7"></td><td class=3D"line-content">    =
+<span class=3D"html-tag">&lt;meta <span class=3D"html-attribute-name">name<=
+/span>=3D"<span class=3D"html-attribute-value">theme-color</span>" <span cl=
+ass=3D"html-attribute-name">content</span>=3D"<span class=3D"html-attribute=
+-value">#000000</span>" /&gt;</span></td></tr><tr><td class=3D"line-number"=
+ value=3D"8"></td><td class=3D"line-content">    <span class=3D"html-tag">&=
+lt;meta</span></td></tr><tr><td class=3D"line-number" value=3D"9"></td><td =
+class=3D"line-content">      <span class=3D"html-attribute-name">name</span=
+>=3D"<span class=3D"html-attribute-value">description</span>"</td></tr><tr>=
+<td class=3D"line-number" value=3D"10"></td><td class=3D"line-content">    =
+  <span class=3D"html-attribute-name">content</span>=3D"<span class=3D"html=
+-attribute-value">Web site created using create-react-app</span>"</td></tr>=
+<tr><td class=3D"line-number" value=3D"11"></td><td class=3D"line-content">=
+    /&gt;</td></tr><tr><td class=3D"line-number" value=3D"12"></td><td clas=
+s=3D"line-content">    <span class=3D"html-tag">&lt;link <span class=3D"htm=
+l-attribute-name">rel</span>=3D"<span class=3D"html-attribute-value">apple-=
+touch-icon</span>" <span class=3D"html-attribute-name">href</span>=3D"<a cl=
+ass=3D"html-attribute-value html-resource-link" target=3D"_blank" href=3D"h=
+ttps://3000-gitpodsampl-templatetyp-gz1b8frbvdu.ws-us97.gitpod.io/logo192.p=
+ng" rel=3D"noreferrer noopener">/logo192.png</a>" /&gt;</span></td></tr><tr=
+><td class=3D"line-number" value=3D"13"></td><td class=3D"line-content">   =
+ <span class=3D"html-comment">&lt;!--</span></td></tr><tr><td class=3D"line=
+-number" value=3D"14"></td><td class=3D"line-content"><span class=3D"html-c=
+omment">      manifest.json provides metadata used when your web app is ins=
+talled on a</span></td></tr><tr><td class=3D"line-number" value=3D"15"></td=
+><td class=3D"line-content"><span class=3D"html-comment">      user's mobil=
+e device or desktop. See https://developers.google.com/web/fundamentals/web=
+-app-manifest/</span></td></tr><tr><td class=3D"line-number" value=3D"16"><=
+/td><td class=3D"line-content"><span class=3D"html-comment">    --&gt;</spa=
+n></td></tr><tr><td class=3D"line-number" value=3D"17"></td><td class=3D"li=
+ne-content">    <span class=3D"html-tag">&lt;link <span class=3D"html-attri=
+bute-name">rel</span>=3D"<span class=3D"html-attribute-value">manifest</spa=
+n>" <span class=3D"html-attribute-name">href</span>=3D"<a class=3D"html-att=
+ribute-value html-resource-link" target=3D"_blank" href=3D"https://3000-git=
+podsampl-templatetyp-gz1b8frbvdu.ws-us97.gitpod.io/manifest.json" rel=3D"no=
+referrer noopener">/manifest.json</a>" /&gt;</span></td></tr><tr><td class=
+=3D"line-number" value=3D"18"></td><td class=3D"line-content">    <span cla=
+ss=3D"html-comment">&lt;!--</span></td></tr><tr><td class=3D"line-number" v=
+alue=3D"19"></td><td class=3D"line-content"><span class=3D"html-comment">  =
+    Notice the use of  in the tags above.</span></td></tr><tr><td class=3D"=
+line-number" value=3D"20"></td><td class=3D"line-content"><span class=3D"ht=
+ml-comment">      It will be replaced with the URL of the `public` folder d=
+uring the build.</span></td></tr><tr><td class=3D"line-number" value=3D"21"=
+></td><td class=3D"line-content"><span class=3D"html-comment">      Only fi=
+les inside the `public` folder can be referenced from the HTML.</span></td>=
+</tr><tr><td class=3D"line-number" value=3D"22"></td><td class=3D"line-cont=
+ent"><span class=3D"html-comment"><br></span></td></tr><tr><td class=3D"lin=
+e-number" value=3D"23"></td><td class=3D"line-content"><span class=3D"html-=
+comment">      Unlike "/favicon.ico" or "favicon.ico", "/favicon.ico" will<=
+/span></td></tr><tr><td class=3D"line-number" value=3D"24"></td><td class=
+=3D"line-content"><span class=3D"html-comment">      work correctly both wi=
+th client-side routing and a non-root public URL.</span></td></tr><tr><td c=
+lass=3D"line-number" value=3D"25"></td><td class=3D"line-content"><span cla=
+ss=3D"html-comment">      Learn how to configure a non-root public URL by r=
+unning `npm run build`.</span></td></tr><tr><td class=3D"line-number" value=
+=3D"26"></td><td class=3D"line-content"><span class=3D"html-comment">    --=
+&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"27"></td><td cl=
+ass=3D"line-content">    <span class=3D"html-tag">&lt;title&gt;</span>React=
+ App<span class=3D"html-tag">&lt;/title&gt;</span></td></tr><tr><td class=
+=3D"line-number" value=3D"28"></td><td class=3D"line-content">  <span class=
+=3D"html-tag">&lt;/head&gt;</span></td></tr><tr><td class=3D"line-number" v=
+alue=3D"29"></td><td class=3D"line-content">  <span class=3D"html-tag">&lt;=
+body&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"30"></td><t=
+d class=3D"line-content">    <span class=3D"html-tag">&lt;noscript&gt;</spa=
+n>You need to enable JavaScript to run this app.<span class=3D"html-tag">&l=
+t;/noscript&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"31">=
+</td><td class=3D"line-content">    <span class=3D"html-tag">&lt;div <span =
+class=3D"html-attribute-name">id</span>=3D"<span class=3D"html-attribute-va=
+lue">root</span>"&gt;</span><span class=3D"html-tag">&lt;/div&gt;</span></t=
+d></tr><tr><td class=3D"line-number" value=3D"32"></td><td class=3D"line-co=
+ntent">    <span class=3D"html-comment">&lt;!--</span></td></tr><tr><td cla=
+ss=3D"line-number" value=3D"33"></td><td class=3D"line-content"><span class=
+=3D"html-comment">      This HTML file is a template.</span></td></tr><tr><=
+td class=3D"line-number" value=3D"34"></td><td class=3D"line-content"><span=
+ class=3D"html-comment">      If you open it directly in the browser, you w=
+ill see an empty page.</span></td></tr><tr><td class=3D"line-number" value=
+=3D"35"></td><td class=3D"line-content"><span class=3D"html-comment"><br></=
+span></td></tr><tr><td class=3D"line-number" value=3D"36"></td><td class=3D=
+"line-content"><span class=3D"html-comment">      You can add webfonts, met=
+a tags, or analytics to this file.</span></td></tr><tr><td class=3D"line-nu=
+mber" value=3D"37"></td><td class=3D"line-content"><span class=3D"html-comm=
+ent">      The build step will place the bundled scripts into the &lt;body&=
+gt; tag.</span></td></tr><tr><td class=3D"line-number" value=3D"38"></td><t=
+d class=3D"line-content"><span class=3D"html-comment"><br></span></td></tr>=
+<tr><td class=3D"line-number" value=3D"39"></td><td class=3D"line-content">=
+<span class=3D"html-comment">      To begin the development, run `npm start=
+` or `yarn start`.</span></td></tr><tr><td class=3D"line-number" value=3D"4=
+0"></td><td class=3D"line-content"><span class=3D"html-comment">      To cr=
+eate a production bundle, use `npm run build` or `yarn build`.</span></td><=
+/tr><tr><td class=3D"line-number" value=3D"41"></td><td class=3D"line-conte=
+nt"><span class=3D"html-comment">    --&gt;</span></td></tr><tr><td class=
+=3D"line-number" value=3D"42"></td><td class=3D"line-content">  <span class=
+=3D"html-tag">&lt;script <span class=3D"html-attribute-name">src</span>=3D"=
+<a class=3D"html-attribute-value html-resource-link" target=3D"_blank" href=
+=3D"https://3000-gitpodsampl-templatetyp-gz1b8frbvdu.ws-us97.gitpod.io/stat=
+ic/js/bundle.js" rel=3D"noreferrer noopener">/static/js/bundle.js</a>"&gt;<=
+/span><span class=3D"html-tag">&lt;/script&gt;</span><span class=3D"html-ta=
+g">&lt;script <span class=3D"html-attribute-name">src</span>=3D"<a class=3D=
+"html-attribute-value html-resource-link" target=3D"_blank" href=3D"https:/=
+/3000-gitpodsampl-templatetyp-gz1b8frbvdu.ws-us97.gitpod.io/static/js/vendo=
+rs~main.chunk.js" rel=3D"noreferrer noopener">/static/js/vendors~main.chunk=
+.js</a>"&gt;</span><span class=3D"html-tag">&lt;/script&gt;</span><span cla=
+ss=3D"html-tag">&lt;script <span class=3D"html-attribute-name">src</span>=
+=3D"<a class=3D"html-attribute-value html-resource-link" target=3D"_blank" =
+href=3D"https://3000-gitpodsampl-templatetyp-gz1b8frbvdu.ws-us97.gitpod.io/=
+static/js/main.chunk.js" rel=3D"noreferrer noopener">/static/js/main.chunk.=
+js</a>"&gt;</span><span class=3D"html-tag">&lt;/script&gt;</span><span clas=
+s=3D"html-tag">&lt;/body&gt;</span></td></tr><tr><td class=3D"line-number" =
+value=3D"43"></td><td class=3D"line-content"><span class=3D"html-tag">&lt;/=
+html&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"44"></td><t=
+d class=3D"line-content"><span class=3D"html-end-of-file"></span></td></tr>=
+</tbody></table></body></html>
+------MultipartBoundary--EuG4C5GQYK5MdfeVrn3q0XW2xQOOBT4f0EV0pOwDCY------
